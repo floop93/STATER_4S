@@ -1,0 +1,9 @@
+../Core/Src/content.c:126:6:main_content	8	static
+../Core/Src/content.c:146:6:loop_content	8	static
+../Core/Src/content.c:155:6:ms_period	8	static
+../Core/Src/content.c:174:6:ADC_handler	16	static
+../Core/Src/content.c:198:6:HAL_GPIO_EXTI_Rising_Callback	16	static
+../Core/Src/content.c:213:6:HAL_GPIO_EXTI_Falling_Callback	24	static
+../Core/Src/content.c:333:6:measurement	8	static
+../Core/Src/content.c:436:6:error_handler	16	static
+../Core/Src/content.c:464:6:controll	16	static

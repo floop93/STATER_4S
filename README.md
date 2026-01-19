@@ -6,10 +6,11 @@ I used STM Cube IDE to build project (based on HALL libraries) To fit it into ma
 
 DISCLAIMER: Project was made as low budget 'helper' on hills and it doesn't relief operator from paying attention od machine.
 
-This upload is done few years after i made this. It require lot of work to do (if I find some time), Most important things that I'm planning to add is:
-  method to adjust impulse timing from device (LCD maybe) 
-  boom angle and height sensors. (to add 2 separate wing mode)
-  test radar sensors instead of ultrasonic (now its affortable so it can be much improvement) 
+This upload is done few years after i made this. It require lot of work to do (if I find some time), Most important things that I'm planning to add:
+
+1. method to adjust impulse timing from device (LCD maybe) 
+2. boom angle and height sensors. (to add 2 separate wing mode)
+3. test radar sensors instead of ultrasonic (now its affortable so it can be much improvement) 
   
 
 

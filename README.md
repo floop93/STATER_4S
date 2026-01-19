@@ -6,8 +6,12 @@ I used STM Cube IDE to build project (based on HALL libraries) To fit it into ma
 
 DISCLAIMER: Project was made as low budget 'helper' on hills and it doesn't relief operator from paying attention od machine.
 
-This upload is done few years after i made this. It require lot of work to do (if I find some time), Most important things that I'm planning to add:
+OPERATION: 
+1. There is 2 types of control. First one is height and angle correction(SW3 turns it on, LED3 is indicator). Second one is only for leveling the boom (SW2 and LED2). Stop button (SW1) disangages all operation. When system is in standby LED1 is on. 
+2. POT1 is for height setting and POT 2 is for reaction sensitivity
+3. LED4 is for indicating sensor malfunction. Number of flashes determine which sensor is faulty.
 
+This upload is done few years after i made this. It require lot of work to do (if I find some time), Most important things that I'm planning to add:
 1. method to adjust impulse timing from device (LCD maybe) 
 2. boom angle and height sensors. (to add 2 separate wing mode)
 3. test radar sensors instead of ultrasonic (now its affortable so it can be much improvement) 
